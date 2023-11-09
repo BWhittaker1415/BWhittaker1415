@@ -6,10 +6,10 @@
 
 **Don’t forget to visit my,** 
 </br>
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/Portfolio.svg" padding-right="16px;">
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/LinkedIn.svg" padding-right="16px;">
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/Twitter.svg" padding-right="16px;">
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/Instagram.svg" padding-right="16px;">
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/Portfolio.svg"  height="35px" padding-right="16px;">
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/LinkedIn.svg"  height="35px" padding-right="16px;">
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/Twitter.svg"  height="35px" padding-right="16px;">
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/ReadMe/Instagram.svg"  height="35px" padding-right="16px;">
 
 
 ## ABOUT ME
