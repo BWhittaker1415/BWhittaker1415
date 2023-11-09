@@ -1,8 +1,6 @@
 # Hello, the name’s Ben.
 
-**I’m a full stack web developer working out of central Massachusetts.**
-
-**Welcome to my** <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/GitHub_A.svg" vertical-align="middle;" height="30px">
+**I’m a full stack web developer working out of central Massachusetts, and welcome to my Github** 
 
 **Don’t forget to visit my,** 
 </br>
