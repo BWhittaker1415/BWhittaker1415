@@ -11,10 +11,10 @@
 
 
 ## ABOUT ME
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Family.svg" width="30px"> I’m a dad to a little boy, Grayson. A husband to my wife, Wendy. </br>
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Pets.svg" width="30px"> Along with the humans in the house, there are many animals. </br>
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Games.svg" width="30px"> I enjoy video games, and especially like fantasy and horror games. </br>
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Goal.svg" width="30px"> I am working towards a goal of building a life doing something I love. </br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Family.svg" width="25px"> I’m a dad to a little boy, Grayson. A husband to my wife, Wendy. </br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Pets.svg" width="25px"> Along with the humans in the house, there are many animals. </br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Games.svg" width="25px"> I enjoy video games, and especially like fantasy and horror games. </br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Goal.svg" width="25px"> I am working towards a goal of building a life doing something I love. </br>
 
 
 ## CODING TOOLS 
@@ -40,7 +40,7 @@ FAMILIAR
 
 
 ## EXTRAS
-ON TOP OF ALL THAT ^^^
+ON TOP OF ALL THAT ⬆️
 </br>
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/FIGMA.svg"  height="30px" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/SLACK.svg"  height="30px" padding-right="16px;">
