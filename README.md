@@ -1,6 +1,6 @@
 # Hello, the name’s Ben.
 
-**I’m a full stack web developer working out of central Massachusetts, and welcome to my Github** 
+**I’m a full stack web developer working out of central Massachusetts, welcome to my Github.** 
 
 **Don’t forget to visit my,** 
 </br>
@@ -40,7 +40,7 @@ FAMILIAR
 
 
 ## EXTRAS
-ON TOP OF ALL THAT
+ON TOP OF ALL THAT ^^^
 </br>
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/FIGMA.svg"  height="30px" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/SLACK.svg"  height="30px" padding-right="16px;">
