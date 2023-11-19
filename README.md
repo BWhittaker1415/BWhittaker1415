@@ -1,6 +1,6 @@
 # Hello, the name’s Ben.
 
-**I’m a full stack web developer working out of central Massachusetts, welcome to my Github.** 
+**I’m a full-stack web developer working out of central Massachusetts, welcome to my GitHub.** 
 
 **Don’t forget to visit my,** 
 </br>
