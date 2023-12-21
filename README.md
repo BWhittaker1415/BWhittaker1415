@@ -1,4 +1,4 @@
-# Hello, the name’s Ben.
+# <img src="./images/BenBG.png">
 
 **I’m a full-stack web developer working out of central Massachusetts, welcome to my GitHub.** 
 
